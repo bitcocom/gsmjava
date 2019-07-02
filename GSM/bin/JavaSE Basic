@@ -1,0 +1,8 @@
+1. JDK설치 8버전이상
+2. EclipseIDE / STS 설치
+-> C:\GSMJAVA\spring-tool-suite-4-4.3.0.RELEASE-e4.12.0-win32.win32.x86_64\sts-4.3.0.RELEASE\eclipsec.exe 
+   -vm C:\GSMJAVA\jdk1.8.0_201\bin\javaw.exe 
+   -data C:\GSMJAVA\workspace
+
+3. MYSQL 설치
+4. Tomcat8 설치
