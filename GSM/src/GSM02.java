@@ -1,7 +1,7 @@
 public class GSM02 {
 	public static void main(String[] args) {
         //int[] a=new int[3];
-		// 1~10±îÁöÀÇ ÃÑÇÕ
+		// 1~10ê¹Œì§€ì˜ ì´í•©
 		int[] a= {1,2,3,4,5,6,7,8,9,10};
         int sum=0;
         for (int i = 0; i < a.length; i++) {
