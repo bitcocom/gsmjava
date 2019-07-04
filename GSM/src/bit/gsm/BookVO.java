@@ -1,7 +1,7 @@
 package bit.gsm;
 // 책->상태(제목, 가격, 지은이, 출판사, 페이지, )+행위
 import java.lang.*;// 생략
-public class BookVO extends Object{
+public class BookVO extends Object{ 
     private String title;
     private int price;
     private String name;
