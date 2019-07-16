@@ -8,4 +8,4 @@ create table mem(
 );
 select * from mem;
 insert into mem(name,age,addr,tel,email) 
- values('³ª±æµ¿',34,'±¤ÁÖ','010-1111-1111','bit@empas.com');  
+ values('í™ê¸¸ë™',34,'ê´‘ì£¼','010-1111-1111','bit@empas.com');  
